@@ -8,7 +8,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const UNMUTABLE_CACHE = 'unmutable-v1';
 
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
